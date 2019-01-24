@@ -10,6 +10,10 @@ Light sensor | TSL2561
 OLED LCD I2C | SSD1306
 Radio transceiver | NRF24l01
 
+## Tooling
+
+Using [Visual Studio Code](https://code.visualstudio.com/) with [Platform.io](https://platformio.org/) to code, manage dependencies, build and upload my work.
+
 ## Prototype
 
 ![Prototype](/_docs/NodeBoard_bb.png)
