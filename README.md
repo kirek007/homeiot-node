@@ -1,4 +1,4 @@
-# homeiot-node
+# HomeIoT-Node
 Simple IoT node that reads temperature, humidity and light intensity and sends it to server [HomeIoT-Master](https://github.com/kirek007/homeiot-master)
 
 ## Parts list
