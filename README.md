@@ -1,4 +1,10 @@
 # HomeIoT-Node
+
+[![Build Status](https://travis-ci.org/kirek007/homeiot-node.svg?branch=master)](https://travis-ci.org/kirek007/homeiot-node)
+![Platfrom info](https://img.shields.io/badge/Platfrom-Arduino%20Nano-green.svg)
+
+
+
 Simple IoT node that reads temperature, humidity and light intensity and sends it to server [HomeIoT-Master](https://github.com/kirek007/homeiot-master)
 
 ## Parts list
